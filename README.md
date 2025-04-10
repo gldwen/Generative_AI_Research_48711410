@@ -10,3 +10,8 @@ This repository contains all files and data related to our REIT6811 research pro
 - `drafts_and_reports/` – Drafts, proposals, final reports
 - `additional_materials/` – Images, charts, photos
 
+## Contribution Guide
+- Use clear, descriptive commit messages
+- Work on a separate branch (`feature_branch_name`)
+- Submit Pull Requests for code review before merging
+- Use Issues to manage tasks and progress

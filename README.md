@@ -1,4 +1,4 @@
-# Generative AI Research – Boon or Bane
+# Generative AI Research 48711410
 
 ## Overview
 This repository contains all files and data related to our REIT6811 research project on the impact of generative AI tools. It includes literature, survey data, qualitative analysis, and research outputs.
